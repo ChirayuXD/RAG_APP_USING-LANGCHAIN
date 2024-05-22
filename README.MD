@@ -9,8 +9,6 @@ This repository contains the implementation of a Retrieval Augmented Generation 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Architecture](#architecture)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
